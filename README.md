@@ -5,7 +5,7 @@ step 1: Login to your virtual machine as a root user
 
 <img width="818" height="365" alt="Screenshot 2025-07-28 132319" src="https://github.com/user-attachments/assets/9cbcbac6-0f36-4cb4-9b87-e959859f2f2f" />
 
-step 2:
+step 2: In the main.php file write your code
 
 <img width="793" height="1079" alt="Screenshot 2025-07-28 132354" src="https://github.com/user-attachments/assets/45aad964-0c3f-49e2-ab53-46bfc84b897c" />
 
