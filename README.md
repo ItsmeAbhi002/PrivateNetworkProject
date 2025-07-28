@@ -13,13 +13,18 @@ srep 3: Search for your ip address in the terminal by using command ip a
 
 <img width="1026" height="752" alt="Screenshot 2025-07-28 132504" src="https://github.com/user-attachments/assets/f8d1b742-3d36-4349-b3db-6091dd00488c" />
 
+
 step 4: Now search the ip address in the browser
 
 <img width="550" height="360" alt="Screenshot 2025-07-28 133116" src="https://github.com/user-attachments/assets/07b9728b-d925-406f-b8f4-770ebc55f6c1" />
 
-step 5:
+
+step 5: Now login to your data base server where you need to login to sql
+
+
 <img width="817" height="727" alt="Screenshot 2025-07-28 132727" src="https://github.com/user-attachments/assets/d9431789-7145-4d12-91fd-37807cd2896a" />
 
-step 6:
+step 6: Here in the data base you can get the data which is been stored from the web page
+
 <img width="680" height="951" alt="Screenshot 2025-07-28 132831" src="https://github.com/user-attachments/assets/1618ede4-898a-4878-90dd-f1ff9c243042" />
 
