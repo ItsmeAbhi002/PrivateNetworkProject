@@ -9,9 +9,12 @@ step 2: In the main.php file write your code
 
 <img width="793" height="1079" alt="Screenshot 2025-07-28 132354" src="https://github.com/user-attachments/assets/45aad964-0c3f-49e2-ab53-46bfc84b897c" />
 
-srep 3:<img width="1026" height="752" alt="Screenshot 2025-07-28 132504" src="https://github.com/user-attachments/assets/f8d1b742-3d36-4349-b3db-6091dd00488c" />
+srep 3: Search for your ip address in the terminal by using command ip a
 
-step 4:
+<img width="1026" height="752" alt="Screenshot 2025-07-28 132504" src="https://github.com/user-attachments/assets/f8d1b742-3d36-4349-b3db-6091dd00488c" />
+
+step 4: Now search the ip address in the browser
+
 <img width="550" height="360" alt="Screenshot 2025-07-28 133116" src="https://github.com/user-attachments/assets/07b9728b-d925-406f-b8f4-770ebc55f6c1" />
 
 step 5:
